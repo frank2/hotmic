@@ -1,2 +1,2 @@
 # hotmic
-A linear feedback shift register library.
+A Galois LFSR (linear feedback shift register) library.
