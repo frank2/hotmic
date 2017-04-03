@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name = 'hotmic'
-    ,version = '0.1'
+    ,version = '0.1.1'
     ,author = 'frank2'
     ,author_email = 'frank2@dc949.org'
     ,description = 'A Galois LFSR implementation with lots of polys.'

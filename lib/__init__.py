@@ -82,4 +82,5 @@ Create an iterator that yields random elements from the iterable object
         yield iterable[index]
 
 
-__all__ = ['lfsr', 'xrandrange', 'tap2_polys', 'tap4_polys', 'all_polys', 'polygen']
+__all__ = ['lfsr', 'xrandrange', 'randiter', 'tap2_polys', 'tap4_polys',
+           'all_polys', 'polygen']
